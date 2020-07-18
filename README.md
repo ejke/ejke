@@ -1,6 +1,14 @@
-### Hi there 👋
+# Eike
+Hi, I'm Eike - a software engineer. 
+
+### Get in touch
+- [Twitter](https://twitter.com/eikejraielo)
+- [Linkedin](http://linkedin.com/in/eikejraielo/)
+
+
 
 <!--
+### Hi there 👋
 **ejke/ejke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
